@@ -1,0 +1,3 @@
+Nama : Fekx
+Umur : 23 Tahun
+Pekerjaan : Fullstack Dev
