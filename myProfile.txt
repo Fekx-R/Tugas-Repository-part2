@@ -1,3 +1,5 @@
 Nama : Fekx
 Umur : 23 Tahun
 Pekerjaan : Fullstack Dev
+kebangsaan : Indonesia
+Status : Lajang
